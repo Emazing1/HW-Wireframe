@@ -1,0 +1,52 @@
+*{
+padding : 10px;
+margin : 10px;
+border : 10px;
+}
+.blended_grid{
+display : block;
+width : 960px;
+overflow : auto;
+margin : 0 auto;
+}
+.Header{
+clear : none;
+float : left;
+position : relative;
+width : 800px;
+height : 50px;
+background-color : White;
+}
+.Nav{
+clear : none;
+float : left;
+position : relative;
+width : 800px;
+height : 50px;
+background-color : white;
+}
+.section{
+clear : none;
+float : left;
+position : relative;
+width : 500px;
+height : 200px;
+background-color : white;
+}
+.aside{
+clear : none;
+float : left;
+position : relative;
+width : 300px;
+height : 200px;
+background-color : white;
+}
+.footer{
+clear : none;
+float : left;
+position : relative;
+width : 800px;
+height : 50px;
+background-color : white;
+}
+
